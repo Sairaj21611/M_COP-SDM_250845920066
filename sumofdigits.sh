@@ -13,3 +13,4 @@ do
 done
 
 echo "the sum of digits is : $s"
+echo "Inside master branch"
